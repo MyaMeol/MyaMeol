@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Name : Choi Min Soo
+Major : Artificial Intelligence
+
 <!--
 **MyaMeol/MyaMeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
