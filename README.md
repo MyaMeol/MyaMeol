@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Name : Choi Min Soo
+Name : Choi Min Soo \n
 Major : Artificial Intelligence
 
 <!--
